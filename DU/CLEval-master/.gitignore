@@ -1,0 +1,15 @@
+__pycache__/
+.vscode
+.DS_Store
+.idea
+output/
+.pytest_cache
+.mypy_cache
+build/
+dist/
+*.egg-info/
+
+venv
+debug*
+tmp*
+profile.txt
